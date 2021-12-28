@@ -1,1 +1,1 @@
-# boyer
+node boyer.js S.txt T.txt
